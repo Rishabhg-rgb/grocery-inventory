@@ -9,6 +9,9 @@ Currently, two official plugins are available:
 
 ## Installation
 
+0. Here is the Live URl
+    https://grocery-inventory-two.vercel.app/
+
 1. Clone the repository:
 
    ```bash
@@ -24,3 +27,4 @@ Currently, two official plugins are available:
 
 5. start the server
     npm run dev
+
